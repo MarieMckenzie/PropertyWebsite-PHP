@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+	<html>
+	<link rel="stylesheet" type="text/css" href="style.css">
+		<body>
+		<h1> MI CASA </h1>
+		<h2> ABOUT MI CASA </h2>
+		</br></br>
+		<a href="registration.php">LIST YOUR PROPERTY </a>
+		
+		<p>
+			Mi Casa is committed to the development of our staff, agents and the 
+			wider community that we serve, providing high quality financial solutions and 
+			outstanding service to our customers, while earning superior returns for our 
+			shareholders.  Established in 2019 Mi Casa is one of modern Real Estate service
+			companies in Jamaica. It's the millenial choice choice for many organizations 
+			and individuals with real estate needs.Mi Casa that provides a range of Residential 
+			and Commercial services including, but not limited to:
+				<ul style="list-style-type:circle">
+				<li>Buying </li> 
+				<li>Selling </li> 
+				<li>Renting/Leasing </li> 
+				<li>Property/Project Management </li> 
+				<li>Strata Management </li> </br></br>
+				
+			 We are conveniently located in Kingston at : </br>
+			 5 Foever Road</br>
+			 Kingston 5. </br></br>
+			
+			Call our office during business hours:</br>
+			(Mon-Fri, 8:30am – 5:00pm)</br>
+			Tel: (876) 929-1111-6 </br>
+			Fax  (876) 332-9187 <br>
+			Email: micasa@micasa.com
+		</p>
+	
+			</body>
+	</html>
